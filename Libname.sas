@@ -7,3 +7,6 @@ libname JoesLib '/home/jocham/';
 
 
 Demo user made a mistake;
+
+*Change #1;
+data x;x=1;run;
